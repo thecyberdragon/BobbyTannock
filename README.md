@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BobbyTannock
+- 👋 Hi, I’m Cyber Dragon
 - 👀 I’m interested in coding cool stuff
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on nothing at the moment
